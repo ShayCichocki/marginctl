@@ -1,0 +1,19 @@
+# Binary
+/marginctl
+testfiles/
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.claude
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+*.test
+coverage.out
+skills/
+# Agent tooling scratch
+.omo/
